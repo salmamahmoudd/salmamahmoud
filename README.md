@@ -13,4 +13,4 @@ Reach out anytime or check my work:
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salmamahmoud)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salma-mahmoud-520b222a4)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-E-Commerce-FF6F61?style=for-the-badge&logo=html5&logoColor=white)](https://salmamahmoudd.github.io/E-Commerce/)
+

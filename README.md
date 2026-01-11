@@ -1,0 +1,14 @@
+# Hi there, I'm Salma Mahmoud! 🌟
+
+💻 **Front-End Developer**
+
+👩‍💻 Passionate about crafting responsive and user-friendly web applications using **Angular, JavaScript, HTML, CSS, and Tailwind**.
+
+☕ Fun Fact: I can't start my day without a cup of coffee and a coding challenge!
+
+---
+
+### 🔗 Connect with Me
+You can reach out to me here:  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salmamahmoud)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salma-mahmoud-520b222a4)

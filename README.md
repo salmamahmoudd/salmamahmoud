@@ -1,4 +1,4 @@
-# Hi there, I'm Salma Mahmoud! 🌟
+# Hi there, I'm Salma Mahmoud 🌟
 
 💻 **Front-End Developer**
 
